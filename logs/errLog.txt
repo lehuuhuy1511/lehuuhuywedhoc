@@ -1,0 +1,10 @@
+2023-07-24/01:13:59		d2c17bd6-627b-400b-90a9-328ff7a8fd02		TypeError: authHeader?.startWith is not a function
+2023-07-24/09:06:03		4978035b-8598-4ca4-ad57-b26049c16388		Error: Not allowed to CORS
+2023-07-24/09:06:03		a886bc30-35c6-456d-8112-f247d74fe064		Error: Not allowed to CORS
+2023-07-25/08:22:52		b800072d-dd30-40ed-a92f-6e2aa9cdaa86		Error: Not allowed to CORS
+2023-07-25/08:22:52		f1f8b84d-10b6-41da-88e5-04aa589d2375		Error: Not allowed to CORS
+2023-07-25/08:23:19		ee750a64-bdce-4f44-8a91-ad8fd9b94138		Error: Not allowed to CORS
+2023-07-25/08:23:19		b5a14458-43ee-47e8-90dd-f622c610b141		Error: Not allowed to CORS
+2023-11-06/11:43:43		ef86e7c6-2e6a-4f54-b01a-1dafeeb186f4		SyntaxError: Unexpected token } in JSON at position 256
+2023-11-07/12:21:59		54d62b7b-91a6-4376-987f-5bf858b02834		SyntaxError: Unexpected token } in JSON at position 194
+2023-11-07/01:38:15		89709b91-2ee7-43a6-8480-9a490479146c		SyntaxError: Unexpected token } in JSON at position 71
